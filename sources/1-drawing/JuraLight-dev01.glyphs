@@ -4,7 +4,8 @@ DisplayStrings = (
 "/En-cy",
 "/Sha-cy HH",
 T,
-"c/te-cy"
+"c/te-cy",
+"/Ze-cy"
 );
 classes = (
 {
@@ -38633,14 +38634,88 @@ unicode = 0416;
 },
 {
 glyphname = "Ze-cy";
-lastChange = "2018-02-14 07:20:20 +0000";
+lastChange = "2018-02-14 17:37:22 +0000";
 layers = (
 {
 layerId = "0E6FACCE-B85C-44A4-8B06-9EFDFED90B40";
+paths = (
+{
+closed = 0;
+nodes = (
+"346 343 LINE",
+"429 343 OFFCURVE",
+"469 383 OFFCURVE",
+"469 465 CURVE",
+"469 492 LINE",
+"469 573 OFFCURVE",
+"429 612 OFFCURVE",
+"346 612 CURVE",
+"244 612 LINE SMOOTH",
+"128 612 OFFCURVE",
+"82 569 OFFCURVE",
+"82 450 CURVE"
+);
+},
+{
+closed = 0;
+nodes = (
+"82 183 LINE",
+"82 64 OFFCURVE",
+"128 21 OFFCURVE",
+"244 21 CURVE SMOOTH",
+"344 21 LINE",
+"444 21 OFFCURVE",
+"491 67 OFFCURVE",
+"491 165 CURVE",
+"491 198 LINE",
+"491 296 OFFCURVE",
+"444 343 OFFCURVE",
+"344 343 CURVE",
+"236 343 LINE"
+);
+}
+);
 width = 600;
 },
 {
 layerId = "B309FD91-69BF-47D2-8142-D25EBE917F3C";
+paths = (
+{
+closed = 0;
+nodes = (
+"346 343 LINE",
+"429 343 OFFCURVE",
+"469 383 OFFCURVE",
+"469 465 CURVE",
+"469 492 LINE",
+"469 573 OFFCURVE",
+"429 612 OFFCURVE",
+"346 612 CURVE",
+"244 612 LINE SMOOTH",
+"128 612 OFFCURVE",
+"82 569 OFFCURVE",
+"82 450 CURVE"
+);
+},
+{
+closed = 0;
+nodes = (
+"82 183 LINE",
+"82 64 OFFCURVE",
+"128 21 OFFCURVE",
+"244 21 CURVE SMOOTH",
+"344 21 LINE",
+"444 21 OFFCURVE",
+"491 67 OFFCURVE",
+"491 165 CURVE",
+"491 198 LINE",
+"491 296 OFFCURVE",
+"444 343 OFFCURVE",
+"344 343 CURVE",
+"236 343 LINE"
+);
+}
+);
 width = 600;
 },
 {
