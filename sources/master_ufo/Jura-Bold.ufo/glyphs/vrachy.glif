@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vrachy" format="2">
+  <anchor x="187" y="507" name="_top"/>
+  <outline>
+    <component base="brevecomb" xOffset="-15"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=breve</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=breve</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/14 12:20:37</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>375</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

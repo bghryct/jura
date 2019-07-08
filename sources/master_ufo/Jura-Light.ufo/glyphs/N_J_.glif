@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="NJ" format="2">
+  <advance width="1181"/>
+  <unicode hex="01CA"/>
+  <anchor x="353" y="0" name="bottom_1"/>
+  <anchor x="906" y="0" name="bottom_2"/>
+  <anchor x="353" y="633" name="top_1"/>
+  <anchor x="1078" y="633" name="top_2"/>
+  <outline>
+    <component base="N"/>
+    <component base="J" xOffset="687"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/23 10:32:23</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

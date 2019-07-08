@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiongreek" format="2">
+  <advance width="258"/>
+  <unicode hex="037E"/>
+  <note>
+questiongreek
+</note>
+  <outline>
+    <component base="semicolon"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:33</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

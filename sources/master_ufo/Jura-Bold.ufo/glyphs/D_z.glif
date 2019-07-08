@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dz" format="2">
+  <advance width="1206"/>
+  <unicode hex="01F2"/>
+  <anchor x="341" y="0" name="bottom_1"/>
+  <anchor x="933" y="0" name="bottom_2"/>
+  <anchor x="192" y="338" name="center"/>
+  <anchor x="353" y="678" name="top_1"/>
+  <anchor x="945" y="507" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="z" xOffset="661"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>D</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>z</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 21:09:11</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

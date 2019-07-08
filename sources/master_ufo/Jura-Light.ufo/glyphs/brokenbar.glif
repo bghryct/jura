@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance width="202"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="122" y="-132"/>
+      <point x="122" y="-120" type="curve" smooth="yes"/>
+      <point x="122" y="167" type="line" smooth="yes"/>
+      <point x="122" y="179"/>
+      <point x="113" y="188"/>
+      <point x="101" y="188" type="curve" smooth="yes"/>
+      <point x="89" y="188"/>
+      <point x="80" y="179"/>
+      <point x="80" y="167" type="curve" smooth="yes"/>
+      <point x="80" y="-120" type="line" smooth="yes"/>
+      <point x="80" y="-132"/>
+      <point x="89" y="-141"/>
+      <point x="101" y="-141" type="curve" smooth="yes"/>
+      <point x="113" y="-141"/>
+    </contour>
+    <contour>
+      <point x="122" y="377"/>
+      <point x="122" y="389" type="curve" smooth="yes"/>
+      <point x="122" y="674" type="line" smooth="yes"/>
+      <point x="122" y="686"/>
+      <point x="113" y="695"/>
+      <point x="101" y="695" type="curve" smooth="yes"/>
+      <point x="89" y="695"/>
+      <point x="80" y="686"/>
+      <point x="80" y="674" type="curve" smooth="yes"/>
+      <point x="80" y="389" type="line" smooth="yes"/>
+      <point x="80" y="377"/>
+      <point x="89" y="368"/>
+      <point x="101" y="368" type="curve" smooth="yes"/>
+      <point x="113" y="368"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>bar</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>bar</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:24</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

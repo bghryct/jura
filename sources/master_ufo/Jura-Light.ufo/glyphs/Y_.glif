@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="515"/>
+  <unicode hex="0059"/>
+  <anchor x="259" y="0" name="bottom"/>
+  <anchor x="259" y="633" name="top"/>
+  <anchor x="24" y="633" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="472" y="634"/>
+      <point x="465" y="623" type="curve" smooth="yes"/>
+      <point x="257" y="295" type="line"/>
+      <point x="50" y="622" type="line"/>
+      <point x="43" y="634"/>
+      <point x="32" y="636"/>
+      <point x="21" y="629" type="curve" smooth="yes"/>
+      <point x="9" y="621"/>
+      <point x="7" y="611"/>
+      <point x="14" y="600" type="curve"/>
+      <point x="236" y="250" type="line"/>
+      <point x="236" y="21" type="line" smooth="yes"/>
+      <point x="236" y="7"/>
+      <point x="243" y="0"/>
+      <point x="257" y="0" type="curve" smooth="yes"/>
+      <point x="271" y="0"/>
+      <point x="278" y="7"/>
+      <point x="278" y="21" type="curve" smooth="yes"/>
+      <point x="278" y="250" type="line"/>
+      <point x="500" y="600" type="line"/>
+      <point x="508" y="612"/>
+      <point x="506" y="622"/>
+      <point x="494" y="629" type="curve" smooth="yes"/>
+      <point x="482" y="636"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>V</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 20:32:14</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="233"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="175" y="523" type="curve" smooth="yes"/>
+      <point x="185" y="532"/>
+      <point x="186" y="542"/>
+      <point x="178" y="553" type="curve"/>
+      <point x="88" y="659" type="line" smooth="yes"/>
+      <point x="79" y="670"/>
+      <point x="68" y="671"/>
+      <point x="58" y="662" type="curve" smooth="yes"/>
+      <point x="48" y="653"/>
+      <point x="47" y="643"/>
+      <point x="55" y="632" type="curve"/>
+      <point x="145" y="526" type="line" smooth="yes"/>
+      <point x="154" y="515"/>
+      <point x="165" y="514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 21:09:11</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

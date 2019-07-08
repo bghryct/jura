@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ereversed-cy" format="2">
+  <advance width="563"/>
+  <unicode hex="044D"/>
+  <note>
+ereversedcyrillic
+</note>
+  <outline>
+    <component base="e-cy" xScale="-1" xOffset="563"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/02 20:12:47</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

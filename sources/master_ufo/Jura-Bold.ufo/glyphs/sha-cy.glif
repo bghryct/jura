@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sha-cy" format="2">
+  <advance width="678"/>
+  <unicode hex="0448"/>
+  <note>
+shacyrillic
+</note>
+  <outline>
+    <contour>
+      <point x="70" y="-6" type="line"/>
+      <point x="608" y="-6" type="line"/>
+      <point x="608" y="426" type="line" smooth="yes"/>
+      <point x="608" y="457.394"/>
+      <point x="593.594" y="474"/>
+      <point x="566" y="474" type="curve" smooth="yes"/>
+      <point x="538.406" y="474"/>
+      <point x="524" y="457.394"/>
+      <point x="524" y="426" type="curve" smooth="yes"/>
+      <point x="524" y="78" type="line"/>
+      <point x="381" y="78" type="line"/>
+      <point x="381" y="426" type="line" smooth="yes"/>
+      <point x="381" y="457.394"/>
+      <point x="366.594" y="474"/>
+      <point x="339" y="474" type="curve" smooth="yes"/>
+      <point x="311.406" y="474"/>
+      <point x="297" y="457.394"/>
+      <point x="297" y="426" type="curve" smooth="yes"/>
+      <point x="297" y="78" type="line"/>
+      <point x="154" y="78" type="line"/>
+      <point x="154" y="426" type="line" smooth="yes"/>
+      <point x="154" y="457.394"/>
+      <point x="139.594" y="474"/>
+      <point x="112" y="474" type="curve" smooth="yes"/>
+      <point x="84.406" y="474"/>
+      <point x="70" y="457.394"/>
+      <point x="70" y="426" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/02 20:12:47</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

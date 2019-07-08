@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblbase" format="2">
+  <advance width="338"/>
+  <unicode hex="201E"/>
+  <outline>
+    <component base="quotesinglbase" xOffset="150"/>
+    <component base="quotesinglbase"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>comma</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/07 15:10:41</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

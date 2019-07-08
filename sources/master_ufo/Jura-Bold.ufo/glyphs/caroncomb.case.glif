@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb.case" format="2">
+  <anchor x="219" y="678" name="_top"/>
+  <anchor x="219" y="758" name="top"/>
+  <outline>
+    <component base="circumflexcomb.case" yScale="-1" yOffset="1598"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 22:55:12</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>418</integer>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

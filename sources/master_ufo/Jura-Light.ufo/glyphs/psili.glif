@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psili" format="2">
+  <advance width="184"/>
+  <unicode hex="1FBF"/>
+  <anchor x="85" y="461" name="_top"/>
+  <outline>
+    <contour>
+      <point x="63" y="553" type="curve" smooth="yes"/>
+      <point x="75" y="548"/>
+      <point x="84" y="552"/>
+      <point x="90" y="565" type="curve" smooth="yes"/>
+      <point x="125" y="646" type="line" smooth="yes"/>
+      <point x="129" y="655"/>
+      <point x="134" y="669"/>
+      <point x="134" y="676" type="curve" smooth="yes"/>
+      <point x="134" y="699" type="line" smooth="yes"/>
+      <point x="134" y="715"/>
+      <point x="125" y="724"/>
+      <point x="109" y="724" type="curve" smooth="yes"/>
+      <point x="80" y="724" type="line" smooth="yes"/>
+      <point x="64" y="724"/>
+      <point x="55" y="715"/>
+      <point x="55" y="699" type="curve" smooth="yes"/>
+      <point x="55" y="672" type="line" smooth="yes"/>
+      <point x="55" y="656"/>
+      <point x="63" y="647"/>
+      <point x="78" y="646" type="curve"/>
+      <point x="51" y="581" type="line" smooth="yes"/>
+      <point x="47" y="568"/>
+      <point x="51" y="559"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=tonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=tonos</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/14 12:20:37</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

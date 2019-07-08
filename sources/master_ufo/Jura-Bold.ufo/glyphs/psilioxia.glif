@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia" format="2">
+  <advance width="343"/>
+  <unicode hex="1FCE"/>
+  <anchor x="151" y="507" name="_top"/>
+  <outline>
+    <component base="psili"/>
+    <component base="varia" xScale="-1" xOffset="340"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=tonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=tonos</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/14 12:20:37</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kje-cy" format="2">
+  <advance width="538"/>
+  <unicode hex="045C"/>
+  <note>
+kjecyrillic
+</note>
+  <outline>
+    <contour>
+      <point x="241" y="510" type="curve" smooth="yes"/>
+      <point x="246" y="510"/>
+      <point x="253" y="514"/>
+      <point x="261" y="523" type="curve" smooth="yes"/>
+      <point x="357" y="638" type="line" smooth="yes"/>
+      <point x="362" y="644"/>
+      <point x="365" y="650"/>
+      <point x="365" y="657" type="curve" smooth="yes"/>
+      <point x="365" y="669"/>
+      <point x="355" y="678"/>
+      <point x="344" y="678" type="curve" smooth="yes"/>
+      <point x="339" y="678"/>
+      <point x="332" y="674"/>
+      <point x="324" y="665" type="curve" smooth="yes"/>
+      <point x="228" y="550" type="line" smooth="yes"/>
+      <point x="223" y="544"/>
+      <point x="220" y="538"/>
+      <point x="220" y="532" type="curve" smooth="yes"/>
+      <point x="220" y="519"/>
+      <point x="230" y="510"/>
+    </contour>
+    <component base="ka-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/02 20:12:47</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

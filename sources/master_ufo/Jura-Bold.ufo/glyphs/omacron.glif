@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance width="634"/>
+  <unicode hex="014D"/>
+  <anchor x="317" y="0" name="bottom"/>
+  <anchor x="317" y="253" name="center"/>
+  <anchor x="472" y="33" name="ogonek"/>
+  <anchor x="317" y="647" name="top"/>
+  <anchor x="481" y="451" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb" xOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 21:09:11</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

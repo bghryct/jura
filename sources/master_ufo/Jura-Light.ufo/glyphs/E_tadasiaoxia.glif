@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaoxia" format="2">
+  <advance width="687"/>
+  <unicode hex="1F2D"/>
+  <anchor x="688" y="0" name="bottomright"/>
+  <anchor x="344" y="461" name="center"/>
+  <anchor x="35" y="633" name="left"/>
+  <anchor x="344" y="633" name="top"/>
+  <anchor x="90" y="633" name="topleft"/>
+  <outline>
+    <component base="Eta"/>
+    <component base="dasiaoxia.case" xOffset="-259" yOffset="-91"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:52</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

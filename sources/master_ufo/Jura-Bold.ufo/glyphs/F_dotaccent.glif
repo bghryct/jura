@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fdotaccent" format="2">
+  <advance width="556"/>
+  <unicode hex="1E1E"/>
+  <anchor x="412" y="0" name="bottom"/>
+  <anchor x="334" y="810" name="top"/>
+  <outline>
+    <component base="F"/>
+    <component base="dotaccentcomb" xOffset="234" yOffset="171"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/27 21:14:41</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

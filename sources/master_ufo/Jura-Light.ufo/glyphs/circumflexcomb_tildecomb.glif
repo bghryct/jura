@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="166" y="461" name="_top"/>
+  <anchor x="165" y="790" name="top"/>
+  <outline>
+    <component base="circumflexcomb"/>
+    <component base="tildecomb.i" yOffset="144"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 22:55:12</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>342</integer>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

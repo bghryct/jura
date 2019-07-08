@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowernumeral-greek" format="2">
+  <advance width="236"/>
+  <unicode hex="0375"/>
+  <outline>
+    <component base="numeral-greek" xScale="-1" yScale="-1" xOffset="236" yOffset="587"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:24</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

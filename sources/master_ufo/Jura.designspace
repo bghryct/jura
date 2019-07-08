@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="300">
+      <map input="300" output="42"/>
+      <map input="400" output="52"/>
+      <map input="500" output="62"/>
+      <map input="600" output="72"/>
+      <map input="700" output="84"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Jura-Light.ufo" name="Jura Light" familyname="Jura" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+      </location>
+    </source>
+    <source filename="Jura-Bold.ufo" name="Jura Bold" familyname="Jura" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="84"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Jura Light" familyname="Jura" stylename="Light" filename="../instance_ufo/Jura-Light.ufo" stylemapfamilyname="Jura Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="42"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Jura Regular" familyname="Jura" stylename="Regular" filename="../instance_ufo/Jura-Regular.ufo" stylemapfamilyname="Jura" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="52"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Jura Medium" familyname="Jura" stylename="Medium" filename="../instance_ufo/Jura-Medium.ufo" stylemapfamilyname="Jura Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Jura SemiBold" familyname="Jura" stylename="SemiBold" filename="../instance_ufo/Jura-SemiBold.ufo" stylemapfamilyname="Jura SemiBold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="72"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance name="Jura Bold" familyname="Jura" stylename="Bold" filename="../instance_ufo/Jura-Bold.ufo" stylemapfamilyname="Jura" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="84"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

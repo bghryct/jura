@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="686"/>
+  <unicode hex="00D8"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="343" y="317" name="center"/>
+  <anchor x="508" y="20" name="ogonek"/>
+  <anchor x="343" y="633" name="top"/>
+  <anchor x="80" y="633" name="topleft"/>
+  <anchor x="533" y="604" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="slashlongcomb" xOffset="62" yOffset="31"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 21:09:11</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaperispomeniprosgegrammeni" format="2">
+  <advance width="955"/>
+  <unicode hex="1F8F"/>
+  <anchor x="668" y="0" name="bottomright"/>
+  <anchor x="197" y="678" name="left"/>
+  <anchor x="562" y="0" name="ogonek"/>
+  <anchor x="334" y="678" name="top"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="dasiaperispomeni.case" xOffset="-192" yOffset="-212"/>
+    <component base="prosgegrammeni" xOffset="573"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=iota</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:52</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

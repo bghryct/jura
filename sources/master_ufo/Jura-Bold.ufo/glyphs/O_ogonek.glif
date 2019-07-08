@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oogonek" format="2">
+  <advance width="728"/>
+  <unicode hex="01EA"/>
+  <anchor x="353" y="0" name="bottom"/>
+  <anchor x="353" y="339" name="center"/>
+  <anchor x="472" y="20" name="ogonek"/>
+  <anchor x="364" y="678" name="top"/>
+  <anchor x="80" y="678" name="topleft"/>
+  <anchor x="575" y="611" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="ogonekcomb.i" xOffset="343" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/23 10:32:23</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

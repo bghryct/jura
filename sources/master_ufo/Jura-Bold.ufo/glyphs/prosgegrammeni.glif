@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prosgegrammeni" format="2">
+  <advance width="382"/>
+  <unicode hex="1FBE"/>
+  <anchor x="95" y="0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="287" y="0" type="curve" smooth="yes"/>
+      <point x="313" y="0"/>
+      <point x="329" y="15"/>
+      <point x="329" y="42" type="curve" smooth="yes"/>
+      <point x="329" y="71"/>
+      <point x="313" y="84"/>
+      <point x="287" y="84" type="curve" smooth="yes"/>
+      <point x="203" y="84"/>
+      <point x="178" y="107"/>
+      <point x="178" y="192" type="curve" smooth="yes"/>
+      <point x="178" y="365" type="line" smooth="yes"/>
+      <point x="178" y="392"/>
+      <point x="163" y="407"/>
+      <point x="136" y="407" type="curve" smooth="yes"/>
+      <point x="109" y="407"/>
+      <point x="94" y="392"/>
+      <point x="94" y="365" type="curve" smooth="yes"/>
+      <point x="94" y="192" type="line" smooth="yes"/>
+      <point x="94" y="61"/>
+      <point x="155" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=iota</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=iota</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:52</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

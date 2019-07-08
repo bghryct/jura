@@ -1,9 +1,13 @@
 {
-.appVersion = "1230";
+.appVersion = "1246";
 DisplayStrings = (
 "/quotedblbase",
 "/quotedblright",
-"/quoteright"
+"/quoteright",
+"/Dje-cy",
+"/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/KaiSymbol/Alphapsili/Alphadasia/Alphapsilivaria/Alphadasiavaria/Alphapsilioxia/Alphadasiaoxia/Alphapsiliperispomeni/Alphadasiaperispomeni/Alphavaria/Alphaoxia/Alphavrachy/Alphamacron/Alphaprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphadasiaperispomeniprosgegrammeni/Epsilonpsili/Epsilondasia/Epsilonpsilivaria/Epsilondasiavaria/Epsilonpsilioxia/Epsilondasiaoxia/Epsilonvaria/Epsilonoxia/Etapsili/Etadasia/Etapsilivaria/Etadasiavaria/Etapsilioxia/Etadasiaoxia/Etapsiliperispomeni/Etadasiaperispomeni/Etavaria/Etaoxia/Etaprosgegrammeni/Etapsiliprosgegrammeni/Etadasiaprosgegrammeni/Etapsilivariaprosgegrammeni/Etadasiavariaprosgegrammeni/Etapsilioxiaprosgegrammeni/Etadasiaoxiaprosgegrammeni/Etapsiliperispomeniprosgegrammeni/Etadasiaperispomeniprosgegrammeni/Iotapsili/Iotadasia/Iotapsilivaria/Iotadasiavaria/Iotapsilioxia/Iotadasiaoxia/Iotapsiliperispomeni/Iotadasiaperispomeni/Iotavaria/Iotaoxia/Iotavrachy/Iotamacron/Omicronpsili/Omicrondasia/Omicronpsilivaria/Omicrondasiavaria/Omicronpsilioxia/Omicrondasiaoxia/Omicronvaria/Omicronoxia/Rhodasia/Upsilondasia/Upsilondasiavaria/Upsilondasiaoxia/Upsilondasiaperispomeni/Upsilonvaria/Upsilonoxia/Upsilonvrachy/Upsilonmacron/Omegapsili/Omegadasia/Omegapsilivaria/Omegadasiavaria/Omegapsilioxia/Omegadasiaoxia/Omegapsiliperispomeni/Omegadasiaperispomeni/Omegavaria/Omegaoxia/Omegaprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos/kaiSymbol/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/epsilonpsili/epsilondasia/epsilonpsilivaria/epsilondasiavaria/epsilonpsilioxia/epsilondasiaoxia/epsilonvaria/epsilonoxia/etapsili/etadasia/etapsilivaria/etadasiavaria/etapsilioxia/etadasiaoxia/etapsiliperispomeni/etadasiaperispomeni/etavaria/etaoxia/etaperispomeni/etaypogegrammeni/etavariaypogegrammeni/etaoxiaypogegrammeni/etapsiliypogegrammeni/etadasiaypogegrammeni/etapsilivariaypogegrammeni/etadasiavariaypogegrammeni/etapsilioxiaypogegrammeni/etadasiaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/iotapsili/iotadasia/iotapsilivaria/iotadasiavaria/iotapsilioxia/iotadasiaoxia/iotapsiliperispomeni/iotadasiaperispomeni/iotavaria/iotaoxia/iotaperispomeni/iotavrachy/iotamacron/iotadialytikavaria/iotadialytikaoxia/iotadialytikaperispomeni/omicronpsili/omicrondasia/omicronpsilivaria/omicrondasiavaria/omicronpsilioxia/omicrondasiaoxia/omicronvaria/omicronoxia/rhopsili/rhodasia/upsilonpsili/upsilondasia/upsilonpsilivaria/upsilondasiavaria/upsilonpsilioxia/upsilondasiaoxia/upsilonpsiliperispomeni/upsilondasiaperispomeni/upsilonvaria/upsilonoxia/upsilonperispomeni/upsilonvrachy/upsilonmacron/upsilondialytikavaria/upsilondialytikaoxia/upsilondialytikaperispomeni/omegapsili/omegadasia/omegapsilivaria/omegadasiavaria/omegapsilioxia/omegadasiaoxia/omegapsiliperispomeni/omegadasiaperispomeni/omegavaria/omegaoxia/omegaperispomeni/omegaypogegrammeni/omegavariaypogegrammeni/omegaoxiaypogegrammeni/omegapsiliypogegrammeni/omegadasiaypogegrammeni/omegapsilivariaypogegrammeni/omegadasiavariaypogegrammeni/omegapsilioxiaypogegrammeni/omegadasiaoxiaypogegrammeni/omegapsiliperispomeniypogegrammeni/omegadasiaperispomeniypogegrammeni/omegaperispomeniypogegrammeni/prosgegrammeni/ypogegrammeni",
+"/mu",
+"0123456789/zero.zero ¹²³/foursuperior/fraction ½¼¾/eight-kayahli/five-kayahli/four-kayahli/nine-kayahli/one-kayahli/seven-kayahli/six-kayahli/three-kayahli/two-kayahli/zero-kayahli */backslash ·/bullet :,/ellipsis !¡#.?¿\"';//_/periodcentered.loclCAT {}[]()/braceleft.case/braceright.case/bracketleft.case/bracketright.case/parenleft.case/parenright.case/emdash/endash/horizontalbar -­«»/guilsinglleft/guilsinglright/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotesinglbase/cwi-kayahli/shya-kayahli/anoteleia/questiongreek   \015/cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/franc.salt/bulletoperator/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/lozenge @&¶§©®/published/trademark °|¦/dagger/daggerdbl/numero ^/replacementCharacter/numeral-greek/lowernumeral-greek/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/commaabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/tildeoverlaycomb/strokeshortcomb/strokelongcomb/slashshortcomb/slashlongcomb/acutecomb.case/circumflexcomb.case/caroncomb.case/brevecomb.i/tildecomb.i/macroncomb.i/breveinvertedcomb.i/ogonekcomb.i/apostrophemod/firsttonechinese ´/breve/caron ¸/circumflex ¨/dotaccent `/hungarumlaut ¯/ogonek/ring/tilde/eMark-kayahli/eeMark-kayahli/oMark-kayahli/tonecalya-kayahli/tonecalyaplophu-kayahli/toneplophu-kayahli/uMark-kayahli/ueMark-kayahli/perispomenicomb/koroniscomb/dialytikatonoscomb/ypogegrammenicomb/vrachy/tonos/tonos.case/dieresistonos/psili/psili.case/koronis/koronis.case/dasia/dasia.case/psilivaria/dasiavaria/dasiavaria.case/psilioxia/psilioxia.case/dasiaoxia/dasiaoxia.case/psiliperispomeni/psiliperispomeni.case/dasiaperispomeni/dasiaperispomeni.case/dialytikavaria/dialytikavaria.case/dialytikaoxia/dialytikaoxia.case/dialytikaperispomeni/dialytikaperispomeni.case/varia/varia.case/oxia/oxia.case/perispomeni/perispomeni.case/psilivaria.case/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/brevecomb_tildecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_tildecomb/circumflexcomb_acutecomb.case/circumflexcomb_gravecomb.case/circumflexcomb_hookabovecomb.case/circumflexcomb_tildecomb.case"
 );
 classes = (
 {
@@ -32,8 +36,8 @@ name = "Use Typo Metrics";
 value = 1;
 }
 );
-date = "2018-01-14 07:27:11 +0000";
-designer = "Daniel Johnson, Alexei Vanyashin";
+date = "2019-07-08 14:21:06 +0000";
+designer = "Daniel Johnson, Alexei Vanyashin, Mirko Velimirovic";
 designerURL = "http://www.danieljohnson.name";
 familyName = Jura;
 featurePrefixes = (
@@ -160,6 +164,15 @@ value = 965;
 {
 name = hheaDescender;
 value = -218;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 descender = -200;
@@ -216,6 +229,15 @@ value = 965;
 {
 name = hheaDescender;
 value = -218;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 descender = -200;
@@ -29833,7 +29855,7 @@ unicode = 042F;
 {
 color = 6;
 glyphname = "Dje-cy";
-lastChange = "2019-05-02 20:12:47 +0000";
+lastChange = "2019-07-08 14:20:10 +0000";
 layers = (
 {
 annotations = (
@@ -29847,10 +29869,6 @@ position = "{259, 523}";
 text = "Ductus of the shoulder on Dje-cy lacks appropriate contrast despite Jura being a monolinear design. I have included an open corner and repaired the contrast. ";
 type = Text;
 width = 410;
-},
-{
-position = "{370.072, 546.77}";
-type = Text;
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -36245,7 +36263,7 @@ unicode = 0473;
 {
 color = 0;
 glyphname = Alpha;
-lastChange = "2019-05-03 21:43:52 +0000";
+lastChange = "2019-07-08 14:33:04 +0000";
 layers = (
 {
 anchors = (
@@ -56016,7 +56034,7 @@ unicode = 00B9;
 {
 color = 11;
 glyphname = twosuperior;
-lastChange = "2019-05-03 21:43:38 +0000";
+lastChange = "2019-07-08 15:18:08 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -56090,7 +56108,7 @@ nodes = (
 "211 437 CURVE SMOOTH",
 "259 467 OFFCURVE",
 "312 495 OFFCURVE",
-"312 567 CURVE",
+"312 567 CURVE SMOOTH",
 "312 636 OFFCURVE",
 "276 672 OFFCURVE",
 "207 672 CURVE SMOOTH",

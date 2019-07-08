@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LJ" format="2">
+  <advance width="980"/>
+  <unicode hex="01C7"/>
+  <anchor x="274" y="0" name="bottom_1"/>
+  <anchor x="705" y="0" name="bottom_2"/>
+  <anchor x="136" y="317" name="center"/>
+  <anchor x="111" y="633" name="top_1"/>
+  <anchor x="877" y="633" name="top_2"/>
+  <anchor x="212" y="416" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="J" xOffset="486"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017/02/23 10:32:23</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

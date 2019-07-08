@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="482"/>
+  <unicode hex="221A"/>
+  <note>
+radical
+</note>
+  <outline>
+    <contour>
+      <point x="304" y="0" type="curve" smooth="yes"/>
+      <point x="317" y="0"/>
+      <point x="323" y="8"/>
+      <point x="326" y="24" type="curve" smooth="yes"/>
+      <point x="429" y="610" type="line" smooth="yes"/>
+      <point x="431" y="622"/>
+      <point x="430" y="642"/>
+      <point x="409" y="642" type="curve" smooth="yes"/>
+      <point x="398" y="642"/>
+      <point x="391" y="634"/>
+      <point x="388" y="617" type="curve" smooth="yes"/>
+      <point x="292" y="75" type="line"/>
+      <point x="139" y="293" type="line" smooth="yes"/>
+      <point x="132" y="303"/>
+      <point x="127" y="308"/>
+      <point x="120" y="308" type="curve" smooth="yes"/>
+      <point x="113" y="308"/>
+      <point x="105" y="305"/>
+      <point x="97" y="297" type="curve" smooth="yes"/>
+      <point x="34" y="234" type="line" smooth="yes"/>
+      <point x="26" y="226"/>
+      <point x="24" y="219"/>
+      <point x="24" y="214" type="curve" smooth="yes"/>
+      <point x="24" y="203"/>
+      <point x="33" y="193"/>
+      <point x="44" y="193" type="curve" smooth="yes"/>
+      <point x="49" y="193"/>
+      <point x="56" y="196"/>
+      <point x="64" y="204" type="curve" smooth="yes"/>
+      <point x="115" y="255" type="line"/>
+      <point x="283" y="15" type="line" smooth="yes"/>
+      <point x="289" y="6"/>
+      <point x="295" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/03 21:43:24</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

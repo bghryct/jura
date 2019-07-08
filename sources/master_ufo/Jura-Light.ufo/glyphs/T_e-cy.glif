@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Te-cy" format="2">
+  <advance width="460"/>
+  <unicode hex="0422"/>
+  <note>
+Tecyrillic
+</note>
+  <outline>
+    <contour>
+      <point x="230" y="-7" type="curve" smooth="yes"/>
+      <point x="244" y="-7"/>
+      <point x="251" y="2"/>
+      <point x="251" y="20" type="curve" smooth="yes"/>
+      <point x="251" y="594" type="line"/>
+      <point x="405" y="594" type="line" smooth="yes"/>
+      <point x="424" y="594"/>
+      <point x="433" y="601"/>
+      <point x="433" y="615" type="curve" smooth="yes"/>
+      <point x="433" y="629"/>
+      <point x="424" y="636"/>
+      <point x="405" y="636" type="curve" smooth="yes"/>
+      <point x="54" y="636" type="line" smooth="yes"/>
+      <point x="35" y="636"/>
+      <point x="26" y="629"/>
+      <point x="26" y="615" type="curve" smooth="yes"/>
+      <point x="26" y="601"/>
+      <point x="35" y="594"/>
+      <point x="54" y="594" type="curve" smooth="yes"/>
+      <point x="209" y="594" type="line"/>
+      <point x="209" y="20" type="line" smooth="yes"/>
+      <point x="209" y="2"/>
+      <point x="216" y="-7"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/02 20:12:47</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

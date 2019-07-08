@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldot" format="2">
+  <advance width="486"/>
+  <unicode hex="013F"/>
+  <anchor x="274" y="0" name="bottom"/>
+  <anchor x="136" y="317" name="center"/>
+  <anchor x="111" y="633" name="top"/>
+  <anchor x="212" y="416" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="periodcentered" xOffset="230" yOffset="56"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>L</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/07/31 21:09:11</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>
