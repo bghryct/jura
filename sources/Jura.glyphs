@@ -34,6 +34,10 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = vendorID;
+value = "New Value";
 }
 );
 date = "2019-07-08 14:21:06 +0000";
