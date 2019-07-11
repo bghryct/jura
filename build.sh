@@ -3,10 +3,13 @@
 set -e
 
 echo "making variable font"
-
 fontmake -g ./sources/Jura.glyphs -o variable --output-path ./fonts/Jura-VF.ttf
-
 echo "VF built"
+
+fontmake -g sources/Jura.glyphs -i --round-instances -o ttf --output-dir ./fonts/ttf/ 
+echo "Made Roman ttfs"
+
+
 
 echo "Removing Build UFOS"
 
@@ -40,3 +43,19 @@ rm -rf Jura-VF.ttf
 rm -rf Jura-VF.ttx
 #rename that new guy the gorrect name
 mv Jura-VF#1.ttf Jura-VF.ttf
+
+cd ..
+
+echo "Post processing statics"
+
+ttfs=$(ls fonts/ttf/*.ttf)
+echo $ttfs
+for ttf in $ttfs
+do
+	gftools fix-dsig -f $ttf;
+	gftools fix-nonhinting $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
+done
+echo "fixed nonhinting ttfs as well as DSIG"
+
+rm ./fonts/ttf/*backup*.ttf
