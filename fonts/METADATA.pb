@@ -10,7 +10,7 @@ fonts {
   filename: "Jura[wght].ttf"
   post_script_name: "Jura-Light"
   full_name: "Jura Light"
-  copyright: "Copyright 2016 The Jura Font Project Authors (daniel@danieljohnson.name)"
+  copyright: "Copyright 2019 The Jura Project Authors (https://github.com/ossobuffo/jura)"
 }
 
 subsets: "cyrillic"
