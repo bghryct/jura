@@ -1,10 +1,10 @@
 {
-.appVersion = "1246";
+.appVersion = "1257";
 DisplayStrings = (
 "/Gcircumflex",
 G,
 "/tonos",
-"/psilivaria/dasiavaria/dasiavaria.case/psilioxia/psilioxia.case/dasiaoxia/tonos"
+"/shya-kayahli/dasiavaria/dasiavaria.case/psilioxia/psilioxia.case/dasiaoxia/tonos"
 );
 classes = (
 {
@@ -60592,7 +60592,7 @@ unicode = A92E;
 {
 color = 11;
 glyphname = "shya-kayahli";
-lastChange = "2019-07-10 15:33:17 +0000";
+lastChange = "2019-08-19 14:35:37 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -60600,6 +60600,10 @@ paths = (
 {
 closed = 1;
 nodes = (
+"170 -14 OFFCURVE",
+"184 4 OFFCURVE",
+"184 40 CURVE SMOOTH",
+"184 880 LINE SMOOTH",
 "184 918 OFFCURVE",
 "170 936 OFFCURVE",
 "142 936 CURVE SMOOTH",
@@ -60609,11 +60613,7 @@ nodes = (
 "100 40 LINE SMOOTH",
 "100 4 OFFCURVE",
 "114 -14 OFFCURVE",
-"142 -14 CURVE SMOOTH",
-"170 -14 OFFCURVE",
-"184 4 OFFCURVE",
-"184 40 CURVE SMOOTH",
-"184 880 LINE SMOOTH"
+"142 -14 CURVE SMOOTH"
 );
 }
 );
@@ -60625,9 +60625,6 @@ paths = (
 {
 closed = 1;
 nodes = (
-"100 -20 OFFCURVE",
-"128 -56 OFFCURVE",
-"184 -56 CURVE SMOOTH",
 "236 -56 OFFCURVE",
 "268 -24 OFFCURVE",
 "268 40 CURVE SMOOTH",
@@ -60638,7 +60635,10 @@ nodes = (
 "132 978 OFFCURVE",
 "100 940 OFFCURVE",
 "100 880 CURVE SMOOTH",
-"100 40 LINE SMOOTH"
+"100 40 LINE SMOOTH",
+"100 -20 OFFCURVE",
+"128 -56 OFFCURVE",
+"184 -56 CURVE SMOOTH"
 );
 }
 );
