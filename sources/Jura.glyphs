@@ -1,10 +1,12 @@
 {
-.appVersion = "1264";
+.appVersion = "1266";
 DisplayStrings = (
-"/ef-cy",
-"/Alpha/Beta/Gamma/Epsilon/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/KaiSymbol/Alphapsili/Alphadasia/Alphapsilivaria/Alphadasiavaria/Alphapsilioxia/Alphadasiaoxia/Alphapsiliperispomeni/Alphadasiaperispomeni/Alphavaria/Alphaoxia/Alphavrachy/Alphamacron/Alphaprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphadasiaperispomeniprosgegrammeni/Epsilonpsili/Epsilondasia/Epsilonpsilivaria/Epsilondasiavaria/Epsilonpsilioxia/Epsilondasiaoxia/Epsilonvaria/Epsilonoxia/Etapsili/Etadasia/Etapsilivaria/Etadasiavaria/Etapsilioxia/Etadasiaoxia/Etapsiliperispomeni/Etadasiaperispomeni/Etavaria/Etaoxia/Etaprosgegrammeni/Etapsiliprosgegrammeni/Etadasiaprosgegrammeni/Etapsilivariaprosgegrammeni/Etadasiavariaprosgegrammeni/Etapsilioxiaprosgegrammeni/Etadasiaoxiaprosgegrammeni/Etapsiliperispomeniprosgegrammeni/Etadasiaperispomeniprosgegrammeni/Iotapsili/Iotadasia/Iotapsilivaria/Iotadasiavaria/Iotapsilioxia/Iotadasiaoxia/Iotapsiliperispomeni/Iotadasiaperispomeni/Iotavaria/Iotaoxia/Iotavrachy/Iotamacron/Omicronpsili/Omicrondasia/Omicronpsilivaria/Omicrondasiavaria/Omicronpsilioxia/Omicrondasiaoxia/Omicronvaria/Omicronoxia/Rhodasia/Upsilondasia/Upsilondasiavaria/Upsilondasiaoxia/Upsilondasiaperispomeni/Upsilonvaria/Upsilonoxia/Upsilonvrachy/Upsilonmacron/Omegapsili/Omegadasia/Omegapsilivaria/Omegadasiavaria/Omegapsilioxia/Omegadasiaoxia/Omegapsiliperispomeni/Omegadasiaperispomeni/Omegavaria/Omegaoxia/Omegaprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos/kaiSymbol/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/epsilonpsili/epsilondasia/epsilonpsilivaria/epsilondasiavaria/epsilonpsilioxia/epsilondasiaoxia/epsilonvaria/epsilonoxia/etapsili/etadasia/etapsilivaria/etadasiavaria/etapsilioxia/etadasiaoxia/etapsiliperispomeni/etadasiaperispomeni/etavaria/etaoxia/etaperispomeni/etaypogegrammeni/etavariaypogegrammeni/etaoxiaypogegrammeni/etapsiliypogegrammeni/etadasiaypogegrammeni/etapsilivariaypogegrammeni/etadasiavariaypogegrammeni/etapsilioxiaypogegrammeni/etadasiaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/iotapsili/iotadasia/iotapsilivaria/iotadasiavaria/iotapsilioxia/iotadasiaoxia/iotapsiliperispomeni/iotadasiaperispomeni/iotavaria/iotaoxia/iotaperispomeni/iotavrachy/iotamacron/iotadialytikavaria/iotadialytikaoxia/iotadialytikaperispomeni/omicronpsili/omicrondasia/omicronpsilivaria/omicrondasiavaria/omicronpsilioxia/omicrondasiaoxia/omicronvaria/omicronoxia/rhopsili/rhodasia/upsilonpsili/upsilondasia/upsilonpsilivaria/upsilondasiavaria/upsilonpsilioxia/upsilondasiaoxia/upsilonpsiliperispomeni/upsilondasiaperispomeni/upsilonvaria/upsilonoxia/upsilonperispomeni/upsilonvrachy/upsilonmacron/upsilondialytikavaria/upsilondialytikaoxia/upsilondialytikaperispomeni/omegapsili/omegadasia/omegapsilivaria/omegadasiavaria/omegapsilioxia/omegadasiaoxia/omegapsiliperispomeni/omegadasiaperispomeni/omegavaria/omegaoxia/omegaperispomeni/omegaypogegrammeni/omegavariaypogegrammeni/omegaoxiaypogegrammeni/omegapsiliypogegrammeni/omegadasiaypogegrammeni/omegapsilivariaypogegrammeni/omegadasiavariaypogegrammeni/omegapsilioxiaypogegrammeni/omegadasiaoxiaypogegrammeni/omegapsiliperispomeniypogegrammeni/omegadasiaperispomeniypogegrammeni/omegaperispomeniypogegrammeni/prosgegrammeni/ypogegrammeni",
-"/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/KaiSymbol/Alphapsili/Alphadasia/Alphapsilivaria/Alphadasiavaria/Alphapsilioxia/Alphadasiaoxia/Alphapsiliperispomeni/Alphadasiaperispomeni/Alphavaria/Alphaoxia/Alphavrachy/Alphamacron/Alphaprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphadasiaperispomeniprosgegrammeni/Epsilonpsili/Epsilondasia/Epsilonpsilivaria/Epsilondasiavaria/Epsilonpsilioxia/Epsilondasiaoxia/Epsilonvaria/Epsilonoxia/Etapsili/Etadasia/Etapsilivaria/Etadasiavaria/Etapsilioxia/Etadasiaoxia/Etapsiliperispomeni/Etadasiaperispomeni/Etavaria/Etaoxia/Etaprosgegrammeni/Etapsiliprosgegrammeni/Etadasiaprosgegrammeni/Etapsilivariaprosgegrammeni/Etadasiavariaprosgegrammeni/Etapsilioxiaprosgegrammeni/Etadasiaoxiaprosgegrammeni/Etapsiliperispomeniprosgegrammeni/Etadasiaperispomeniprosgegrammeni/Iotapsili/Iotadasia/Iotapsilivaria/Iotadasiavaria/Iotapsilioxia/Iotadasiaoxia/Iotapsiliperispomeni/Iotadasiaperispomeni/Iotavaria/Iotaoxia/Iotavrachy/Iotamacron/Omicronpsili/Omicrondasia/Omicronpsilivaria/Omicrondasiavaria/Omicronpsilioxia/Omicrondasiaoxia/Omicronvaria/Omicronoxia/Rhodasia/Upsilondasia/Upsilondasiavaria/Upsilondasiaoxia/Upsilondasiaperispomeni/Upsilonvaria/Upsilonoxia/Upsilonvrachy/Upsilonmacron/Omegapsili/Omegadasia/Omegapsilivaria/Omegadasiavaria/Omegapsilioxia/Omegadasiaoxia/Omegapsiliperispomeni/Omegadasiaperispomeni/Omegavaria/Omegaoxia/Omegaprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni/alpha/beta/gamma/delta/epsilon/zeta/eta/theta/iota/kappa/lambda/mu/nu/xi/omicron/pi/rho/sigmafinal/sigma/tau/upsilon/phi/chi/psi/omega/iotatonos/iotadieresis/iotadieresistonos/upsilontonos/upsilondieresis/upsilondieresistonos/omicrontonos/omegatonos/alphatonos/epsilontonos/etatonos/kaiSymbol/alphapsili/alphadasia/alphapsilivaria/alphadasiavaria/alphapsilioxia/alphadasiaoxia/alphapsiliperispomeni/alphadasiaperispomeni/alphavaria/alphaoxia/alphaperispomeni/alphavrachy/alphamacron/alphaypogegrammeni/alphavariaypogegrammeni/alphaoxiaypogegrammeni/alphapsiliypogegrammeni/alphadasiaypogegrammeni/alphapsilivariaypogegrammeni/alphadasiavariaypogegrammeni/alphapsilioxiaypogegrammeni/alphadasiaoxiaypogegrammeni/alphapsiliperispomeniypogegrammeni/alphadasiaperispomeniypogegrammeni/alphaperispomeniypogegrammeni/epsilonpsili/epsilondasia/epsilonpsilivaria/epsilondasiavaria/epsilonpsilioxia/epsilondasiaoxia/epsilonvaria/epsilonoxia/etapsili/etadasia/etapsilivaria/etadasiavaria/etapsilioxia/etadasiaoxia/etapsiliperispomeni/etadasiaperispomeni/etavaria/etaoxia/etaperispomeni/etaypogegrammeni/etavariaypogegrammeni/etaoxiaypogegrammeni/etapsiliypogegrammeni/etadasiaypogegrammeni/etapsilivariaypogegrammeni/etadasiavariaypogegrammeni/etapsilioxiaypogegrammeni/etadasiaoxiaypogegrammeni/etapsiliperispomeniypogegrammeni/etadasiaperispomeniypogegrammeni/etaperispomeniypogegrammeni/iotapsili/iotadasia/iotapsilivaria/iotadasiavaria/iotapsilioxia/iotadasiaoxia/iotapsiliperispomeni/iotadasiaperispomeni/iotavaria/iotaoxia/iotaperispomeni/iotavrachy/iotamacron/iotadialytikavaria/iotadialytikaoxia/iotadialytikaperispomeni/omicronpsili/omicrondasia/omicronpsilivaria/omicrondasiavaria/omicronpsilioxia/omicrondasiaoxia/omicronvaria/omicronoxia/rhopsili/rhodasia/upsilonpsili/upsilondasia/upsilonpsilivaria/upsilondasiavaria/upsilonpsilioxia/upsilondasiaoxia/upsilonpsiliperispomeni/upsilondasiaperispomeni/upsilonvaria/upsilonoxia/upsilonperispomeni/upsilonvrachy/upsilonmacron/upsilondialytikavaria/upsilondialytikaoxia/upsilondialytikaperispomeni/omegapsili/omegadasia/omegapsilivaria/omegadasiavaria/omegapsilioxia/omegadasiaoxia/omegapsiliperispomeni/omegadasiaperispomeni/omegavaria/omegaoxia/omegaperispomeni/omegaypogegrammeni/omegavariaypogegrammeni/omegaoxiaypogegrammeni/omegapsiliypogegrammeni/omegadasiaypogegrammeni/omegapsilivariaypogegrammeni/omegadasiavariaypogegrammeni/omegapsilioxiaypogegrammeni/omegadasiaoxiaypogegrammeni/omegapsiliperispomeniypogegrammeni/omegadasiaperispomeniypogegrammeni/omegaperispomeniypogegrammeni/prosgegrammeni/ypogegrammeni",
-"/cedi ¢/colonsign ¤$/dong/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/franc.salt/bulletoperator/divisionslash +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/lozenge @&¶§©®/published/trademark °|¦/dagger/daggerdbl/numero ^/replacementCharacter/numeral-greek/lowernumeral-greek"
+"/daggerdbl",
+"/pi",
+"/epsilon",
+"/a-cy",
+"/tshe-cy",
+"/ef-cy"
 );
 classes = (
 {
@@ -35,6 +37,15 @@ value = 1;
 {
 name = vendorID;
 value = GOOG;
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2019-07-10 15:33:02 +0000";
@@ -16851,7 +16862,7 @@ unicode = 013C;
 {
 color = 9;
 glyphname = ldot;
-lastChange = "2019-09-04 19:35:22 +0000";
+lastChange = "2019-09-30 18:48:29 +0000";
 layers = (
 {
 components = (
@@ -16865,7 +16876,7 @@ transform = "{1, 0, 0, 1, 324, 160}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
-width = 678;
+width = 1798;
 },
 {
 components = (
@@ -16879,7 +16890,7 @@ transform = "{1, 0, 0, 1, 338, 160}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
-width = 820;
+width = 2510;
 }
 );
 leftKerningGroup = h;
@@ -35788,7 +35799,7 @@ unicode = 0458;
 {
 color = 9;
 glyphname = "tshe-cy";
-lastChange = "2019-09-04 19:35:22 +0000";
+lastChange = "2019-09-30 18:50:36 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -35822,15 +35833,15 @@ nodes = (
 "418 922 OFFCURVE",
 "306 874 OFFCURVE",
 "232 778 CURVE",
-"232 1020 LINE",
-"640 1020 LINE SMOOTH",
-"678 1020 OFFCURVE",
-"698 1034 OFFCURVE",
-"698 1060 CURVE SMOOTH",
-"698 1090 OFFCURVE",
-"678 1106 OFFCURVE",
-"640 1106 CURVE SMOOTH",
-"232 1106 LINE",
+"232 1050 LINE",
+"640 1050 LINE SMOOTH",
+"678 1050 OFFCURVE",
+"698 1064 OFFCURVE",
+"698 1090 CURVE SMOOTH",
+"698 1120 OFFCURVE",
+"678 1136 OFFCURVE",
+"640 1136 CURVE SMOOTH",
+"232 1136 LINE",
 "232 1224 LINE SMOOTH",
 "232 1266 OFFCURVE",
 "216 1286 OFFCURVE",
@@ -35838,13 +35849,13 @@ nodes = (
 "160 1286 OFFCURVE",
 "148 1266 OFFCURVE",
 "148 1224 CURVE SMOOTH",
-"148 1106 LINE",
-"122 1106 OFFCURVE",
-"98 1098 OFFCURVE",
-"98 1064 CURVE SMOOTH",
-"98 1034 OFFCURVE",
-"114 1020 OFFCURVE",
-"148 1020 CURVE",
+"148 1136 LINE",
+"122 1136 OFFCURVE",
+"98 1128 OFFCURVE",
+"98 1094 CURVE SMOOTH",
+"98 1064 OFFCURVE",
+"114 1050 OFFCURVE",
+"148 1050 CURVE",
 "148 46 LINE SMOOTH",
 "148 6 OFFCURVE",
 "162 -14 OFFCURVE",
@@ -43187,13 +43198,13 @@ unicode = 03B4;
 {
 color = 0;
 glyphname = epsilon;
-lastChange = "2019-09-07 14:42:41 +0000";
+lastChange = "2019-09-30 18:49:48 +0000";
 layers = (
 {
 anchors = (
 {
 name = top;
-position = "{622, 1014}";
+position = "{632, 1014}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -43201,70 +43212,70 @@ paths = (
 {
 closed = 1;
 nodes = (
-"726 0 LINE SMOOTH",
-"924 0 OFFCURVE",
-"1038 66 OFFCURVE",
-"1070 204 CURVE SMOOTH",
-"1082 260 OFFCURVE",
-"1046 292 OFFCURVE",
-"990 292 CURVE SMOOTH",
-"936 292 OFFCURVE",
-"918 266 OFFCURVE",
-"898 216 CURVE",
-"878 180 OFFCURVE",
-"828 166 OFFCURVE",
-"726 166 CURVE SMOOTH",
-"542 166 LINE SMOOTH",
-"414 166 OFFCURVE",
-"324 174 OFFCURVE",
-"324 264 CURVE SMOOTH",
-"324 306 LINE SMOOTH",
-"324 398 OFFCURVE",
-"368 422 OFFCURVE",
-"472 422 CURVE SMOOTH",
-"702 422 LINE SMOOTH",
-"756 422 OFFCURVE",
-"786 452 OFFCURVE",
-"786 506 CURVE SMOOTH",
-"786 560 OFFCURVE",
-"756 590 OFFCURVE",
-"702 590 CURVE SMOOTH",
-"488 590 LINE SMOOTH",
-"396 590 OFFCURVE",
-"336 606 OFFCURVE",
-"336 676 CURVE SMOOTH",
-"336 722 LINE SMOOTH",
-"336 802 OFFCURVE",
-"386 848 OFFCURVE",
-"528 848 CURVE SMOOTH",
-"726 848 LINE SMOOTH",
-"828 848 OFFCURVE",
-"878 834 OFFCURVE",
-"898 798 CURVE",
-"918 750 OFFCURVE",
-"936 722 OFFCURVE",
-"988 722 CURVE SMOOTH",
-"1046 722 OFFCURVE",
-"1082 754 OFFCURVE",
-"1070 810 CURVE SMOOTH",
-"1038 948 OFFCURVE",
-"924 1014 OFFCURVE",
-"726 1014 CURVE SMOOTH",
-"562 1014 LINE SMOOTH",
-"298 1016 OFFCURVE",
-"168 910 OFFCURVE",
-"168 754 CURVE SMOOTH",
-"168 702 LINE SMOOTH",
-"168 584 OFFCURVE",
-"184 540 OFFCURVE",
-"286 500 CURVE",
-"196 488 OFFCURVE",
-"148 418 OFFCURVE",
-"150 328 CURVE SMOOTH",
-"152 264 LINE SMOOTH",
-"158 96 OFFCURVE",
-"292 0 OFFCURVE",
-"542 0 CURVE SMOOTH"
+"736 0 LINE SMOOTH",
+"934 0 OFFCURVE",
+"1048 66 OFFCURVE",
+"1080 204 CURVE SMOOTH",
+"1092 260 OFFCURVE",
+"1056 292 OFFCURVE",
+"1000 292 CURVE SMOOTH",
+"946 292 OFFCURVE",
+"928 266 OFFCURVE",
+"908 216 CURVE",
+"888 180 OFFCURVE",
+"838 166 OFFCURVE",
+"736 166 CURVE SMOOTH",
+"552 166 LINE SMOOTH",
+"424 166 OFFCURVE",
+"334 174 OFFCURVE",
+"334 264 CURVE SMOOTH",
+"334 306 LINE SMOOTH",
+"334 398 OFFCURVE",
+"378 422 OFFCURVE",
+"482 422 CURVE SMOOTH",
+"712 422 LINE SMOOTH",
+"766 422 OFFCURVE",
+"796 452 OFFCURVE",
+"796 506 CURVE SMOOTH",
+"796 560 OFFCURVE",
+"766 590 OFFCURVE",
+"712 590 CURVE SMOOTH",
+"498 590 LINE SMOOTH",
+"406 590 OFFCURVE",
+"346 606 OFFCURVE",
+"346 676 CURVE SMOOTH",
+"346 722 LINE SMOOTH",
+"346 802 OFFCURVE",
+"396 848 OFFCURVE",
+"538 848 CURVE SMOOTH",
+"736 848 LINE SMOOTH",
+"838 848 OFFCURVE",
+"888 834 OFFCURVE",
+"908 798 CURVE",
+"928 750 OFFCURVE",
+"946 722 OFFCURVE",
+"998 722 CURVE SMOOTH",
+"1056 722 OFFCURVE",
+"1092 754 OFFCURVE",
+"1080 810 CURVE SMOOTH",
+"1048 948 OFFCURVE",
+"934 1014 OFFCURVE",
+"736 1014 CURVE SMOOTH",
+"572 1014 LINE SMOOTH",
+"308 1016 OFFCURVE",
+"178 910 OFFCURVE",
+"178 754 CURVE SMOOTH",
+"178 702 LINE SMOOTH",
+"178 584 OFFCURVE",
+"194 540 OFFCURVE",
+"296 500 CURVE",
+"206 488 OFFCURVE",
+"158 418 OFFCURVE",
+"160 328 CURVE SMOOTH",
+"162 264 LINE SMOOTH",
+"168 96 OFFCURVE",
+"302 0 OFFCURVE",
+"552 0 CURVE SMOOTH"
 );
 }
 );
@@ -43274,7 +43285,7 @@ width = 1222;
 anchors = (
 {
 name = top;
-position = "{582, 922}";
+position = "{592, 922}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -43282,70 +43293,70 @@ paths = (
 {
 closed = 1;
 nodes = (
-"700 0 LINE SMOOTH",
-"896 0 OFFCURVE",
-"992 64 OFFCURVE",
-"1008 206 CURVE",
-"1010 234 OFFCURVE",
-"994 250 OFFCURVE",
-"966 250 CURVE SMOOTH",
-"940 250 OFFCURVE",
-"928 236 OFFCURVE",
-"924 210 CURVE SMOOTH",
-"912 118 OFFCURVE",
-"850 84 OFFCURVE",
-"700 84 CURVE SMOOTH",
-"500 84 LINE SMOOTH",
-"304 84 OFFCURVE",
-"234 134 OFFCURVE",
-"234 256 CURVE SMOOTH",
-"234 274 LINE SMOOTH",
-"234 394 OFFCURVE",
-"266 430 OFFCURVE",
-"454 430 CURVE SMOOTH",
-"724 430 LINE SMOOTH",
-"752 430 OFFCURVE",
-"766 444 OFFCURVE",
-"766 472 CURVE SMOOTH",
-"766 500 OFFCURVE",
-"752 514 OFFCURVE",
-"724 514 CURVE SMOOTH",
-"454 514 LINE SMOOTH",
-"344 514 OFFCURVE",
-"252 528 OFFCURVE",
-"250 644 CURVE SMOOTH",
-"250 672 LINE SMOOTH",
-"248 790 OFFCURVE",
-"330 838 OFFCURVE",
-"516 838 CURVE SMOOTH",
-"700 838 LINE SMOOTH",
-"850 838 OFFCURVE",
-"912 804 OFFCURVE",
-"924 712 CURVE SMOOTH",
-"928 686 OFFCURVE",
-"940 672 OFFCURVE",
-"966 672 CURVE SMOOTH",
-"994 672 OFFCURVE",
-"1010 688 OFFCURVE",
-"1008 716 CURVE SMOOTH",
-"992 858 OFFCURVE",
-"896 922 OFFCURVE",
-"700 922 CURVE SMOOTH",
-"516 922 LINE SMOOTH",
-"250 922 OFFCURVE",
-"166 820 OFFCURVE",
-"166 672 CURVE SMOOTH",
-"166 652 LINE SMOOTH",
-"166 554 OFFCURVE",
-"196 500 OFFCURVE",
-"264 470 CURVE",
-"190 444 OFFCURVE",
-"150 408 OFFCURVE",
-"150 276 CURVE SMOOTH",
-"150 256 LINE SMOOTH",
-"150 70 OFFCURVE",
-"256 0 OFFCURVE",
-"500 0 CURVE SMOOTH"
+"710 0 LINE SMOOTH",
+"906 0 OFFCURVE",
+"1002 64 OFFCURVE",
+"1018 206 CURVE",
+"1020 234 OFFCURVE",
+"1004 250 OFFCURVE",
+"976 250 CURVE SMOOTH",
+"950 250 OFFCURVE",
+"938 236 OFFCURVE",
+"934 210 CURVE SMOOTH",
+"922 118 OFFCURVE",
+"860 84 OFFCURVE",
+"710 84 CURVE SMOOTH",
+"510 84 LINE SMOOTH",
+"314 84 OFFCURVE",
+"244 134 OFFCURVE",
+"244 256 CURVE SMOOTH",
+"244 274 LINE SMOOTH",
+"244 394 OFFCURVE",
+"276 430 OFFCURVE",
+"464 430 CURVE SMOOTH",
+"734 430 LINE SMOOTH",
+"762 430 OFFCURVE",
+"776 444 OFFCURVE",
+"776 472 CURVE SMOOTH",
+"776 500 OFFCURVE",
+"762 514 OFFCURVE",
+"734 514 CURVE SMOOTH",
+"464 514 LINE SMOOTH",
+"354 514 OFFCURVE",
+"262 528 OFFCURVE",
+"260 644 CURVE SMOOTH",
+"260 672 LINE SMOOTH",
+"258 790 OFFCURVE",
+"340 838 OFFCURVE",
+"526 838 CURVE SMOOTH",
+"710 838 LINE SMOOTH",
+"860 838 OFFCURVE",
+"922 804 OFFCURVE",
+"934 712 CURVE SMOOTH",
+"938 686 OFFCURVE",
+"950 672 OFFCURVE",
+"976 672 CURVE SMOOTH",
+"1004 672 OFFCURVE",
+"1020 688 OFFCURVE",
+"1018 716 CURVE SMOOTH",
+"1002 858 OFFCURVE",
+"906 922 OFFCURVE",
+"710 922 CURVE SMOOTH",
+"526 922 LINE SMOOTH",
+"260 922 OFFCURVE",
+"176 820 OFFCURVE",
+"176 672 CURVE SMOOTH",
+"176 652 LINE SMOOTH",
+"176 554 OFFCURVE",
+"206 500 OFFCURVE",
+"274 470 CURVE",
+"200 444 OFFCURVE",
+"160 408 OFFCURVE",
+"160 276 CURVE SMOOTH",
+"160 256 LINE SMOOTH",
+"160 70 OFFCURVE",
+"266 0 OFFCURVE",
+"510 0 CURVE SMOOTH"
 );
 }
 );
@@ -43353,10 +43364,10 @@ width = 1158;
 }
 );
 leftKerningGroup = GRK_epsilon;
-leftMetricsKey = "=c-10";
+leftMetricsKey = c;
 note = epsilon;
 rightKerningGroup = GRK_epsilon;
-rightMetricsKey = "=c+10";
+rightMetricsKey = c;
 unicode = 03B5;
 },
 {
@@ -44359,7 +44370,7 @@ unicode = 03BF;
 {
 color = 0;
 glyphname = pi;
-lastChange = "2019-07-10 15:34:30 +0000";
+lastChange = "2019-09-30 18:49:13 +0000";
 layers = (
 {
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -44367,48 +44378,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"78 876 OFFCURVE",
-"108 846 OFFCURVE",
-"162 846 CURVE SMOOTH",
-"330 846 LINE",
-"330 84 LINE SMOOTH",
-"330 30 OFFCURVE",
-"360 0 OFFCURVE",
-"414 0 CURVE SMOOTH",
-"468 0 OFFCURVE",
-"498 30 OFFCURVE",
-"498 84 CURVE SMOOTH",
-"498 846 LINE",
-"978 846 LINE",
-"978 384 LINE SMOOTH",
-"978 122 OFFCURVE",
-"1106 0 OFFCURVE",
-"1344 0 CURVE SMOOTH",
-"1396 0 OFFCURVE",
-"1428 30 OFFCURVE",
-"1428 84 CURVE SMOOTH",
-"1428 142 OFFCURVE",
-"1396 168 OFFCURVE",
-"1344 168 CURVE SMOOTH",
-"1202 168 OFFCURVE",
-"1146 214 OFFCURVE",
-"1146 384 CURVE SMOOTH",
-"1146 846 LINE",
-"1318 846 LINE SMOOTH",
-"1372 846 OFFCURVE",
-"1402 876 OFFCURVE",
-"1402 930 CURVE SMOOTH",
-"1402 986 OFFCURVE",
-"1372 1014 OFFCURVE",
-"1318 1014 CURVE SMOOTH",
-"162 1014 LINE SMOOTH",
-"108 1014 OFFCURVE",
-"78 986 OFFCURVE",
-"78 930 CURVE SMOOTH"
+"68 876 OFFCURVE",
+"98 846 OFFCURVE",
+"152 846 CURVE SMOOTH",
+"320 846 LINE",
+"320 84 LINE SMOOTH",
+"320 30 OFFCURVE",
+"350 0 OFFCURVE",
+"404 0 CURVE SMOOTH",
+"458 0 OFFCURVE",
+"488 30 OFFCURVE",
+"488 84 CURVE SMOOTH",
+"488 846 LINE",
+"968 846 LINE",
+"968 384 LINE SMOOTH",
+"968 122 OFFCURVE",
+"1096 0 OFFCURVE",
+"1334 0 CURVE SMOOTH",
+"1386 0 OFFCURVE",
+"1418 30 OFFCURVE",
+"1418 84 CURVE SMOOTH",
+"1418 142 OFFCURVE",
+"1386 168 OFFCURVE",
+"1334 168 CURVE SMOOTH",
+"1192 168 OFFCURVE",
+"1136 214 OFFCURVE",
+"1136 384 CURVE SMOOTH",
+"1136 846 LINE",
+"1308 846 LINE SMOOTH",
+"1362 846 OFFCURVE",
+"1392 876 OFFCURVE",
+"1392 930 CURVE SMOOTH",
+"1392 986 OFFCURVE",
+"1362 1014 OFFCURVE",
+"1308 1014 CURVE SMOOTH",
+"152 1014 LINE SMOOTH",
+"98 1014 OFFCURVE",
+"68 986 OFFCURVE",
+"68 930 CURVE SMOOTH"
 );
 }
 );
-width = 1544;
+width = 1524;
 },
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -44416,55 +44427,55 @@ paths = (
 {
 closed = 1;
 nodes = (
-"50 852 OFFCURVE",
-"64 838 OFFCURVE",
-"92 838 CURVE SMOOTH",
-"348 838 LINE",
-"348 42 LINE SMOOTH",
-"348 14 OFFCURVE",
-"362 0 OFFCURVE",
-"390 0 CURVE SMOOTH",
-"418 0 OFFCURVE",
-"432 14 OFFCURVE",
-"432 42 CURVE SMOOTH",
-"432 838 LINE",
-"938 838 LINE",
-"938 342 LINE SMOOTH",
-"938 104 OFFCURVE",
-"1042 0 OFFCURVE",
-"1282 0 CURVE SMOOTH",
-"1312 0 OFFCURVE",
-"1326 14 OFFCURVE",
-"1326 42 CURVE SMOOTH",
-"1326 68 OFFCURVE",
-"1316 84 OFFCURVE",
-"1282 84 CURVE SMOOTH",
-"1088 84 OFFCURVE",
-"1022 150 OFFCURVE",
-"1022 342 CURVE SMOOTH",
-"1022 838 LINE",
-"1280 838 LINE SMOOTH",
-"1308 838 OFFCURVE",
-"1322 852 OFFCURVE",
-"1322 880 CURVE SMOOTH",
-"1322 908 OFFCURVE",
-"1308 922 OFFCURVE",
-"1280 922 CURVE SMOOTH",
-"92 922 LINE SMOOTH",
-"64 922 OFFCURVE",
-"50 908 OFFCURVE",
-"50 880 CURVE SMOOTH"
+"40 852 OFFCURVE",
+"54 838 OFFCURVE",
+"82 838 CURVE SMOOTH",
+"338 838 LINE",
+"338 42 LINE SMOOTH",
+"338 14 OFFCURVE",
+"352 0 OFFCURVE",
+"380 0 CURVE SMOOTH",
+"408 0 OFFCURVE",
+"422 14 OFFCURVE",
+"422 42 CURVE SMOOTH",
+"422 838 LINE",
+"928 838 LINE",
+"928 342 LINE SMOOTH",
+"928 104 OFFCURVE",
+"1032 0 OFFCURVE",
+"1272 0 CURVE SMOOTH",
+"1302 0 OFFCURVE",
+"1316 14 OFFCURVE",
+"1316 42 CURVE SMOOTH",
+"1316 68 OFFCURVE",
+"1306 84 OFFCURVE",
+"1272 84 CURVE SMOOTH",
+"1078 84 OFFCURVE",
+"1012 150 OFFCURVE",
+"1012 342 CURVE SMOOTH",
+"1012 838 LINE",
+"1270 838 LINE SMOOTH",
+"1298 838 OFFCURVE",
+"1312 852 OFFCURVE",
+"1312 880 CURVE SMOOTH",
+"1312 908 OFFCURVE",
+"1298 922 OFFCURVE",
+"1270 922 CURVE SMOOTH",
+"82 922 LINE SMOOTH",
+"54 922 OFFCURVE",
+"40 908 OFFCURVE",
+"40 880 CURVE SMOOTH"
 );
 }
 );
-width = 1416;
+width = 1396;
 }
 );
 leftKerningGroup = pi;
-leftMetricsKey = "=t+10";
+leftMetricsKey = t;
 note = pi;
 rightKerningGroup = pi;
-rightMetricsKey = "=t+10";
+rightMetricsKey = t;
 unicode = 03C0;
 },
 {
@@ -45936,7 +45947,7 @@ unicode = 03AC;
 {
 color = 0;
 glyphname = epsilontonos;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -45945,7 +45956,7 @@ name = epsilon;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 444, 0}";
+transform = "{1, 0, 0, 1, 454, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -45958,7 +45969,7 @@ name = epsilon;
 },
 {
 name = tonos;
-transform = "{1, 0, 0, 1, 452, 0}";
+transform = "{1, 0, 0, 1, 462, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47132,7 +47143,7 @@ unicode = 1FB7;
 {
 color = 0;
 glyphname = epsilonpsili;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47141,7 +47152,7 @@ name = epsilon;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 434, 0}";
+transform = "{1, 0, 0, 1, 444, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47154,7 +47165,7 @@ name = epsilon;
 },
 {
 name = psili;
-transform = "{1, 0, 0, 1, 411, 0}";
+transform = "{1, 0, 0, 1, 421, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47168,7 +47179,7 @@ unicode = 1F10;
 {
 color = 0;
 glyphname = epsilondasia;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47177,7 +47188,7 @@ name = epsilon;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 400, 0}";
+transform = "{1, 0, 0, 1, 410, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47190,7 +47201,7 @@ name = epsilon;
 },
 {
 name = dasia;
-transform = "{1, 0, 0, 1, 351, 0}";
+transform = "{1, 0, 0, 1, 361, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47204,7 +47215,7 @@ unicode = 1F11;
 {
 color = 0;
 glyphname = epsilonpsilivaria;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47213,7 +47224,7 @@ name = epsilon;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, 300, 0}";
+transform = "{1, 0, 0, 1, 310, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47226,7 +47237,7 @@ name = epsilon;
 },
 {
 name = psilivaria;
-transform = "{1, 0, 0, 1, 272, 0}";
+transform = "{1, 0, 0, 1, 282, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47240,7 +47251,7 @@ unicode = 1F12;
 {
 color = 0;
 glyphname = epsilondasiavaria;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47249,7 +47260,7 @@ name = epsilon;
 },
 {
 name = dasiavaria;
-transform = "{1, 0, 0, 1, 260, 0}";
+transform = "{1, 0, 0, 1, 270, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47262,7 +47273,7 @@ name = epsilon;
 },
 {
 name = dasiavaria;
-transform = "{1, 0, 0, 1, 251, 0}";
+transform = "{1, 0, 0, 1, 261, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47276,7 +47287,7 @@ unicode = 1F13;
 {
 color = 0;
 glyphname = epsilonpsilioxia;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47285,7 +47296,7 @@ name = epsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 320, 0}";
+transform = "{1, 0, 0, 1, 330, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47298,7 +47309,7 @@ name = epsilon;
 },
 {
 name = psilioxia;
-transform = "{1, 0, 0, 1, 352, 0}";
+transform = "{1, 0, 0, 1, 362, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47312,7 +47323,7 @@ unicode = 1F14;
 {
 color = 0;
 glyphname = epsilondasiaoxia;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47321,7 +47332,7 @@ name = epsilon;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 300, 0}";
+transform = "{1, 0, 0, 1, 310, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47334,7 +47345,7 @@ name = epsilon;
 },
 {
 name = dasiaoxia;
-transform = "{1, 0, 0, 1, 291, 0}";
+transform = "{1, 0, 0, 1, 301, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47348,7 +47359,7 @@ unicode = 1F15;
 {
 color = 0;
 glyphname = epsilonvaria;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47357,7 +47368,7 @@ name = epsilon;
 },
 {
 name = varia;
-transform = "{1, 0, 0, 1, 341, 0}";
+transform = "{1, 0, 0, 1, 351, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47370,7 +47381,7 @@ name = epsilon;
 },
 {
 name = varia;
-transform = "{1, 0, 0, 1, 307, 0}";
+transform = "{1, 0, 0, 1, 317, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -47384,7 +47395,7 @@ unicode = 1F72;
 {
 color = 0;
 glyphname = epsilonoxia;
-lastChange = "2019-07-10 15:36:48 +0000";
+lastChange = "2019-09-30 18:49:53 +0000";
 layers = (
 {
 components = (
@@ -47393,7 +47404,7 @@ name = epsilon;
 },
 {
 name = oxia;
-transform = "{1, 0, 0, 1, 464, 0}";
+transform = "{1, 0, 0, 1, 474, 0}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
@@ -47406,7 +47417,7 @@ name = epsilon;
 },
 {
 name = oxia;
-transform = "{1, 0, 0, 1, 452, 0}";
+transform = "{1, 0, 0, 1, 462, 0}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -67827,7 +67838,7 @@ unicode = 00B6;
 {
 color = 11;
 glyphname = section;
-lastChange = "2019-07-10 15:33:17 +0000";
+lastChange = "2019-09-30 18:47:32 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -67902,10 +67913,8 @@ nodes = (
 "426 840 CURVE SMOOTH",
 "450 840 OFFCURVE",
 "468 858 OFFCURVE",
-"468 882 CURVE SMOOTH",
-"468 882 OFFCURVE",
-"450 882 OFFCURVE",
-"426 894 CURVE SMOOTH",
+"468 882 CURVE",
+"426 894 LINE",
 "244 894 OFFCURVE",
 "160 820 OFFCURVE",
 "160 656 CURVE SMOOTH",
@@ -68010,10 +68019,8 @@ nodes = (
 "462 804 CURVE SMOOTH",
 "506 804 OFFCURVE",
 "540 838 OFFCURVE",
-"540 882 CURVE SMOOTH",
-"540 904 OFFCURVE",
-"506 922 OFFCURVE",
-"462 916 CURVE SMOOTH",
+"540 882 CURVE",
+"462 916 LINE",
 "258 916 OFFCURVE",
 "160 832 OFFCURVE",
 "160 656 CURVE SMOOTH",
@@ -76073,6 +76080,12 @@ unicode = 0000;
 );
 instances = (
 {
+customParameters = (
+{
+name = weightClass;
+value = 300;
+}
+);
 interpolationWeight = 42;
 instanceInterpolations = {
 "C9A88445-F9B1-43BF-9834-532EB19954E9" = 1;
@@ -76081,6 +76094,12 @@ name = Light;
 weightClass = Light;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 400;
+}
+);
 interpolationWeight = 52;
 instanceInterpolations = {
 "9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.2381;
@@ -76089,6 +76108,12 @@ instanceInterpolations = {
 name = Regular;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 500;
+}
+);
 interpolationWeight = 62;
 instanceInterpolations = {
 "9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.47619;
@@ -76098,6 +76123,12 @@ name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 600;
+}
+);
 interpolationWeight = 72;
 instanceInterpolations = {
 "9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.71429;
@@ -76107,6 +76138,12 @@ name = SemiBold;
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = weightClass;
+value = 700;
+}
+);
 interpolationWeight = 84;
 instanceInterpolations = {
 "9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 1;
