@@ -1,12 +1,9 @@
 {
 .appVersion = "1266";
 DisplayStrings = (
-"/daggerdbl",
-"/pi",
-"/epsilon",
-"/a-cy",
-"/tshe-cy",
-"/ef-cy"
+"/Alpha/Beta/Gamma/Delta/Epsilon/Zeta/Eta/Theta/Iota/Kappa/Lambda/Mu/Nu/Xi/Omicron/Pi/Rho/Sigma/Tau/Upsilon/Phi/Chi/Psi/Omega/Alphatonos/Epsilontonos/Etatonos/Iotatonos/Omicrontonos/Upsilontonos/Omegatonos/Iotadieresis/Upsilondieresis/KaiSymbol/Alphapsili/Alphadasia/Alphapsilivaria/Alphadasiavaria/Alphapsilioxia/Alphadasiaoxia/Alphapsiliperispomeni/Alphadasiaperispomeni/Alphavaria/Alphaoxia/Alphavrachy/Alphamacron/Alphaprosgegrammeni/Alphapsiliprosgegrammeni/Alphadasiaprosgegrammeni/Alphapsilivariaprosgegrammeni/Alphadasiavariaprosgegrammeni/Alphapsilioxiaprosgegrammeni/Alphadasiaoxiaprosgegrammeni/Alphapsiliperispomeniprosgegrammeni/Alphadasiaperispomeniprosgegrammeni/Epsilonpsili/Epsilondasia/Epsilonpsilivaria/Epsilondasiavaria/Epsilonpsilioxia/Epsilondasiaoxia/Epsilonvaria/Epsilonoxia/Etapsili/Etadasia/Etapsilivaria/Etadasiavaria/Etapsilioxia/Etadasiaoxia/Etapsiliperispomeni/Etadasiaperispomeni/Etavaria/Etaoxia/Etaprosgegrammeni/Etapsiliprosgegrammeni/Etadasiaprosgegrammeni/Etapsilivariaprosgegrammeni/Etadasiavariaprosgegrammeni/Etapsilioxiaprosgegrammeni/Etadasiaoxiaprosgegrammeni/Etapsiliperispomeniprosgegrammeni/Etadasiaperispomeniprosgegrammeni/Iotapsili/Iotadasia/Iotapsilivaria/Iotadasiavaria/Iotapsilioxia/Iotadasiaoxia/Iotapsiliperispomeni/Iotadasiaperispomeni/Iotavaria/Iotaoxia/Iotavrachy/Iotamacron/Omicronpsili/Omicrondasia/Omicronpsilivaria/Omicrondasiavaria/Omicronpsilioxia/Omicrondasiaoxia/Omicronvaria/Omicronoxia/Rhodasia/Upsilondasia/Upsilondasiavaria/Upsilondasiaoxia/Upsilondasiaperispomeni/Upsilonvaria/Upsilonoxia/Upsilonvrachy/Upsilonmacron/Omegapsili/Omegadasia/Omegapsilivaria/Omegadasiavaria/Omegapsilioxia/Omegadasiaoxia/Omegapsiliperispomeni/Omegadasiaperispomeni/Omegavaria/Omegaoxia/Omegaprosgegrammeni/Omegapsiliprosgegrammeni/Omegadasiaprosgegrammeni/Omegapsilivariaprosgegrammeni/Omegadasiavariaprosgegrammeni/Omegapsilioxiaprosgegrammeni/Omegadasiaoxiaprosgegrammeni/Omegapsiliperispomeniprosgegrammeni/Omegadasiaperispomeniprosgegrammeni",
+"/A-cy/Be-cy/Ve-cy/Ge-cy/Gje-cy/Gheupturn-cy/De-cy/Ie-cy/Iegrave-cy/Io-cy/Zhe-cy/Ze-cy/Ii-cy/Ii_grave-cy/Iishort-cy/Ka-cy/Kje-cy/El-cy/Em-cy/En-cy/O-cy/Pe-cy/Er-cy/Es-cy/Te-cy/U-cy/Ushort-cy/Ef-cy/Ha-cy/Che-cy/Tse-cy/Sha-cy/Shcha-cy/Dzhe-cy/Softsign-cy/Hardsign-cy/Yeru-cy/Lje-cy/Nje-cy/Dze-cy/E-cy/Ereversed-cy/I-cy/Yi-cy/Je-cy/Tshe-cy/Iu-cy/Ia-cy/Dje-cy/Yat-cy/Fita-cy/a-cy/be-cy/ve-cy/ge-cy/gje-cy/gheupturn-cy/de-cy/ie-cy/iegrave-cy/io-cy/zhe-cy/ze-cy/ii-cy/ii_grave-cy/iishort-cy/ka-cy/kje-cy/el-cy/em-cy/en-cy/o-cy/pe-cy/er-cy/es-cy/te-cy/u-cy/ushort-cy/ef-cy/ha-cy/che-cy/tse-cy/sha-cy/shcha-cy/dzhe-cy/softsign-cy/hardsign-cy/yeru-cy/lje-cy/nje-cy/dze-cy/e-cy/ereversed-cy/i-cy/yi-cy/je-cy/tshe-cy/iu-cy/ia-cy/dje-cy/yat-cy/fita-cy",
+"l/ldot"
 );
 classes = (
 {
@@ -96,7 +93,8 @@ code = "sub braceleft by braceleft.case;\012sub braceright by braceright.case;\0
 name = case;
 },
 {
-code = "sub f i by fi;\012sub f f by f_f;\012sub f l by fl;\012";
+automatic = 1;
+code = "lookupflag IgnoreMarks;\012sub f f i by f_f_i;\012sub f f l by f_f_l;\012sub f f by f_f;\012sub f i by fi;\012sub f l by fl;\012";
 name = liga;
 },
 {
@@ -163,7 +161,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2178;
+value = 2203;
 },
 {
 name = winDescent;
@@ -196,7 +194,7 @@ verticalStems = (
 84
 );
 weight = Light;
-weightValue = 42;
+weightValue = 300;
 xHeight = 922;
 },
 {
@@ -228,7 +226,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 2178;
+value = 2203;
 },
 {
 name = winDescent;
@@ -261,7 +259,7 @@ verticalStems = (
 168
 );
 weight = Bold;
-weightValue = 84;
+weightValue = 700;
 xHeight = 1014;
 }
 );
@@ -16862,7 +16860,7 @@ unicode = 013C;
 {
 color = 9;
 glyphname = ldot;
-lastChange = "2019-09-30 18:48:29 +0000";
+lastChange = "2019-10-02 18:25:45 +0000";
 layers = (
 {
 components = (
@@ -16876,7 +16874,7 @@ transform = "{1, 0, 0, 1, 324, 160}";
 }
 );
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
-width = 1798;
+width = 658;
 },
 {
 components = (
@@ -16890,12 +16888,11 @@ transform = "{1, 0, 0, 1, 338, 160}";
 }
 );
 layerId = "9D2B49D7-8C02-48EB-8D57-D561CCF616AE";
-width = 2510;
+width = 800;
 }
 );
 leftKerningGroup = h;
 rightKerningGroup = l;
-rightMetricsKey = "=l+20";
 unicode = 0140;
 },
 {
@@ -64354,7 +64351,7 @@ unicode = 00A3;
 {
 color = 11;
 glyphname = won;
-lastChange = "2019-07-10 15:34:30 +0000";
+lastChange = "2019-09-30 20:06:40 +0000";
 layers = (
 {
 layerId = "C9A88445-F9B1-43BF-9834-532EB19954E9";
@@ -64362,7 +64359,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"421 0 LINE",
+"421 0 LINE SMOOTH",
 "443 0 OFFCURVE",
 "455 10 OFFCURVE",
 "461 30 CURVE SMOOTH",
@@ -64371,8 +64368,8 @@ nodes = (
 "1017 30 LINE SMOOTH",
 "1023 10 OFFCURVE",
 "1035 0 OFFCURVE",
-"1057 0 CURVE",
-"1069 0 LINE",
+"1057 0 CURVE SMOOTH",
+"1069 0 LINE SMOOTH",
 "1089 0 OFFCURVE",
 "1103 10 OFFCURVE",
 "1109 30 CURVE SMOOTH",
@@ -64405,7 +64402,7 @@ nodes = (
 "369 30 LINE SMOOTH",
 "375 10 OFFCURVE",
 "389 0 OFFCURVE",
-"409 0 CURVE"
+"409 0 CURVE SMOOTH"
 );
 },
 {
@@ -64436,7 +64433,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"482 0 LINE",
+"483 0 LINE SMOOTH",
 "530 0 OFFCURVE",
 "564 24 OFFCURVE",
 "572 72 CURVE SMOOTH",
@@ -64445,8 +64442,8 @@ nodes = (
 "986 72 LINE SMOOTH",
 "998 24 OFFCURVE",
 "1030 0 OFFCURVE",
-"1074 0 CURVE",
-"1078 0 LINE",
+"1074 0 CURVE SMOOTH",
+"1078 0 LINE SMOOTH",
 "1122 0 OFFCURVE",
 "1154 26 OFFCURVE",
 "1164 72 CURVE SMOOTH",
@@ -64463,7 +64460,7 @@ nodes = (
 "864 1328 OFFCURVE",
 "826 1356 OFFCURVE",
 "780 1356 CURVE SMOOTH",
-"784 1356 LINE",
+"784 1356 LINE SMOOTH",
 "732 1356 OFFCURVE",
 "698 1332 OFFCURVE",
 "686 1284 CURVE SMOOTH",
@@ -64479,7 +64476,7 @@ nodes = (
 "394 72 LINE SMOOTH",
 "408 22 OFFCURVE",
 "436 0 OFFCURVE",
-"482 0 CURVE"
+"482 0 CURVE SMOOTH"
 );
 },
 {
@@ -76080,13 +76077,7 @@ unicode = 0000;
 );
 instances = (
 {
-customParameters = (
-{
-name = weightClass;
-value = 300;
-}
-);
-interpolationWeight = 42;
+interpolationWeight = 300;
 instanceInterpolations = {
 "C9A88445-F9B1-43BF-9834-532EB19954E9" = 1;
 };
@@ -76094,57 +76085,33 @@ name = Light;
 weightClass = Light;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 400;
-}
-);
-interpolationWeight = 52;
+interpolationWeight = 400;
 instanceInterpolations = {
-"9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.2381;
-"C9A88445-F9B1-43BF-9834-532EB19954E9" = 0.7619;
+"9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.25;
+"C9A88445-F9B1-43BF-9834-532EB19954E9" = 0.75;
 };
 name = Regular;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 500;
-}
-);
-interpolationWeight = 62;
+interpolationWeight = 500;
 instanceInterpolations = {
-"9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.47619;
-"C9A88445-F9B1-43BF-9834-532EB19954E9" = 0.52381;
+"9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.5;
+"C9A88445-F9B1-43BF-9834-532EB19954E9" = 0.5;
 };
 name = Medium;
 weightClass = Medium;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 600;
-}
-);
-interpolationWeight = 72;
+interpolationWeight = 600;
 instanceInterpolations = {
-"9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.71429;
-"C9A88445-F9B1-43BF-9834-532EB19954E9" = 0.28571;
+"9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 0.75;
+"C9A88445-F9B1-43BF-9834-532EB19954E9" = 0.25;
 };
 name = SemiBold;
 weightClass = SemiBold;
 },
 {
-customParameters = (
-{
-name = weightClass;
-value = 700;
-}
-);
-interpolationWeight = 84;
+interpolationWeight = 700;
 instanceInterpolations = {
 "9D2B49D7-8C02-48EB-8D57-D561CCF616AE" = 1;
 };
